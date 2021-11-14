@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="temperatuer">"temperatuer : "</string>
+    <string name="date">"Date : "</string>
+    <string name="more">more details</string>
+    <string name="desc">Description</string>
+    <string name="list">List</string>
+    <string name="chart">Chart</string>
+</resources>
